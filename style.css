@@ -66,9 +66,6 @@ button:disabled{
     background-position: center center;
     background-size: cover;
   }
-  .text-container {
-    /* margin-bottom: 20%; */
-  }
   button {
     box-shadow: 5px 5px 30px 20px rgba(0,0,0,0.4);
     margin-top: 90%;
